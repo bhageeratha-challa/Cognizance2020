@@ -7,4 +7,4 @@ create valid entries 1,2,3.
 ask for input of user i.e to give 1 for rock, 2 for paper,3for scissors.
 now update count of user and computer.
 write an if statement to check if any of the players score is 10.
-then if any player got 10 give out put as that player won!.
+Then if any player got 10 give out put as that player won!.
